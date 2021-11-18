@@ -1,0 +1,321 @@
+[
+    {
+        "awards": [
+            {
+                "contractPeriod": {
+                    "endDate": "2017-02-06T12:00:00Z",
+                    "startDate": "2017-01-25T12:00:00Z"
+                },
+                "description": "AdjudicaciÃ³n Directa para la AdquisiciÃ³n de Consumibles de Equipo Medico",
+                "id": "1817103",
+                "items": [
+                    {
+                        "classification": {
+                            "description": "Electrodos",
+                            "id": "24600038",
+                            "scheme": "CUCOP",
+                            "uri": "https://compranetinfo.hacienda.gob.mx/descargas/CUCOP.xlsx"
+                        },
+                        "description": "ELECTRODO PARA EMG, DE TRES  LATIGULLOS. PRESENTACION: PAQUETE CON  50 PIEZAS. NUMERO DE CATALOGO: D00 91. PARA SU USO EN EL EQUIPO: SISTEMA DE MEDICION  URODINAMICA CLAVE: 531.829.0243.01.01. MARCA: ANDROMEDA. MODELO: ELLIPSE CHAIR.",
+                        "id": "5346425",
+                        "quantity": 1,
+                        "unit": {
+                            "name": "Envase",
+                            "value": {
+                                "amount": 0,
+                                "currency": "MXN"
+                            }
+                        }
+                    },
+                    {
+                        "classification": {
+                            "description": "Sonda nasal",
+                            "id": "25400451",
+                            "scheme": "CUCOP",
+                            "uri": "https://compranetinfo.hacienda.gob.mx/descargas/CUCOP.xlsx"
+                        },
+                        "description": "PUNTAS NASALES DESECHABLES PARA PACIENTES NEONATALES. PRESENTACION: PAQUETE CON   10 PIEZAS. NUMERO DE CATALOGO: 878035. PARA SU USO EN EL EQUIPO CLAVE: 531 632   0380 CENTRAL DE MONITOREO PARA 12 CAMAS, AVANZADA. MARCA: DATEX-OHMEDA. MODELO:",
+                        "id": "5346426",
+                        "quantity": 12,
+                        "unit": {
+                            "name": "Envase",
+                            "value": {
+                                "amount": 0,
+                                "currency": "MXN"
+                            }
+                        }
+                    },
+                    {
+                        "classification": {
+                            "description": "Antifaz",
+                            "id": "25400565",
+                            "scheme": "CUCOP",
+                            "uri": "https://compranetinfo.hacienda.gob.mx/descargas/CUCOP.xlsx"
+                        },
+                        "description": "ANTIFAZ PARA FOTOTERAPIA. PRESENTACION: PIEZA. NUMERO DE CATALOGO: MX11000. PARA   SU USO EN EL EQUIPO: CLAVE 531 646 0087 CUNA DE CALOR RADIANTE PARA CUIDADOS   INTENSIVOS. MARCA: DRAGER. MODELO: BABYTHERM 8004/8010 MONITOR DE SIGNOS",
+                        "id": "5346423",
+                        "quantity": 150,
+                        "unit": {
+                            "name": "Envase",
+                            "value": {
+                                "amount": 45,
+                                "currency": "MXN"
+                            }
+                        }
+                    },
+                    {
+                        "classification": {
+                            "description": "Cuchillas desechables",
+                            "id": "29100298",
+                            "scheme": "CUCOP",
+                            "uri": "https://compranetinfo.hacienda.gob.mx/descargas/CUCOP.xlsx"
+                        },
+                        "description": "CUCHILLAS DESECHABLES DE ALTO PERFIL. PRESENTACION: CAJA CON 50 PIEZAS. NUMERO   DE CATALOGO: 000000-0415-345. PARA SU USO EN EL EQUIPO MEDICO: CLAVE   533.631.0106.01.01 MICROTOMO PARA CORTES DE PARAFINA. MARCA: CARL ZEISS.",
+                        "id": "5346424",
+                        "quantity": 2,
+                        "unit": {
+                            "name": "Envase",
+                            "value": {
+                                "amount": 0,
+                                "currency": "MXN"
+                            }
+                        }
+                    }
+                ],
+                "status": "active",
+                "suppliers": [
+                    {
+                        "id": "CMS100107GI3",
+                        "name": "CORPORATIVO MS SISTEMAS MEDICOS SA DE CV"
+                    }
+                ],
+                "title": "AdjudicaciÃ³n Directa para la AdquisiciÃ³n de Consumibles de Equipo Medico",
+                "value": {
+                    "amount": 6750,
+                    "currency": "MXN"
+                }
+            }
+        ],
+        "buyer": {
+            "id": "IMSS-192",
+            "name": "Instituto Mexicano del Seguro Social"
+        },
+        "date": "2021-09-02T10:30:07Z",
+        "id": "SHCP-1256949-2021-09-02",
+        "initiationType": "tender",
+        "language": "es",
+        "ocid": "ocds-07smqs-1256949",
+        "parties": [
+            {
+                "address": {
+                    "countryName": "MX",
+                    "locality": "Azcapotzalco",
+                    "postalCode": "02990",
+                    "region": "Ciudad de MÃ©xico",
+                    "streetAddress": "Calle Seris y Antonio Valeriano S/N Col. La Raza"
+                },
+                "contactPoint": {
+                    "email": "sarita.montiel@imss.gob.mx",
+                    "name": "Sarita Fabiola Montiel Pacheco",
+                    "telephone": "57245900  Ext 24311"
+                },
+                "id": "IMSS-192",
+                "identifier": {
+                    "id": "IMS421231I45-050GYR050",
+                    "legalName": "IMSS-UMAE HOSPITAL DE GINECO OBSTETRICIA No 03 DR VICTOR MANUEL ESPINOSA DE LOS REYES SANCHEZ CMN LA RAZA #050GYR050",
+                    "scheme": "MX-RFC",
+                    "uri": "https://portalsat.plataforma.sat.gob.mx/ConsultaRFC"
+                },
+                "name": "Instituto Mexicano del Seguro Social",
+                "roles": [
+                    "buyer"
+                ]
+            },
+            {
+                "address": {
+                    "countryName": "MX",
+                    "locality": "Azcapotzalco",
+                    "postalCode": "02990",
+                    "region": "Ciudad de MÃ©xico",
+                    "streetAddress": "Calle Seris y Antonio Valeriano S/N Col. La Raza"
+                },
+                "contactPoint": {
+                    "email": "sarita.montiel@imss.gob.mx",
+                    "name": "Sarita Fabiola Montiel Pacheco",
+                    "telephone": "57245900  Ext 24311"
+                },
+                "id": "IMS421231I45-050GYR050",
+                "identifier": {
+                    "id": "IMS421231I45-050GYR050",
+                    "legalName": "IMSS-UMAE HOSPITAL DE GINECO OBSTETRICIA No 03 DR VICTOR MANUEL ESPINOSA DE LOS REYES SANCHEZ CMN LA RAZA #050GYR050",
+                    "scheme": "MX-RFC",
+                    "uri": "https://portalsat.plataforma.sat.gob.mx/ConsultaRFC"
+                },
+                "name": "IMSS-UMAE HOSPITAL DE GINECO OBSTETRICIA No 03 DR VICTOR MANUEL ESPINOSA DE LOS REYES SANCHEZ CMN LA RAZA #050GYR050",
+                "roles": [
+                    "procuringEntity"
+                ]
+            },
+            {
+                "address": {
+                    "countryName": "MÃ‰XICO",
+                    "locality": "Gustavo A. Madero",
+                    "postalCode": "07300",
+                    "region": "MX-CMX",
+                    "streetAddress": "Rio Bamba 861 Col. Lindavista norte c.p. 07300"
+                },
+                "contactPoint": {
+                    "email": "contacto@kezelmedica.com; licitaciones@kezelmedica.com",
+                    "name": "ROLANDO  ROJAS FALCÃ“N",
+                    "telephone": "52 55 51195447"
+                },
+                "id": "CMS100107GI3",
+                "identifier": {
+                    "id": "CMS100107GI3",
+                    "legalName": "CORPORATIVO MS SISTEMAS MEDICOS SA DE CV",
+                    "scheme": "MX-RFC",
+                    "uri": "https://portalsat.plataforma.sat.gob.mx/ConsultaRFC"
+                },
+                "name": "CORPORATIVO MS SISTEMAS MEDICOS SA DE CV",
+                "roles": [
+                    "tenderer",
+                    "supplier"
+                ]
+            }
+        ],
+        "tag": [
+            "tender",
+            "award"
+        ],
+        "tender": {
+            "awardPeriod": {
+                "endDate": "2017-01-23T00:00:00Z"
+            },
+            "description": "AdjudicaciÃ³n Directa para la AdquisiciÃ³n de Consumibles de Equipo Medico",
+            "enquiryPeriod": {
+                "startDate": "2017-01-18T14:39:00Z"
+            },
+            "hasEnquiries": false,
+            "id": "1256949",
+            "items": [
+                {
+                    "classification": {
+                        "description": "Antifaz",
+                        "id": "25400565"
+                    },
+                    "description": "ANTIFAZ PARA FOTOTERAPIA. PRESENTACION: PIEZA. NUMERO DE CATALOGO: MX11000. PARA   SU USO EN EL EQUIPO: CLAVE 531 646 0087 CUNA DE CALOR RADIANTE PARA CUIDADOS   INTENSIVOS. MARCA: DRAGER. MODELO: BABYTHERM 8004/8010 MONITOR DE SIGNOS",
+                    "id": "8186460",
+                    "quantity": 150,
+                    "unit": {
+                        "name": "Envase"
+                    }
+                },
+                {
+                    "classification": {
+                        "description": "Cuchillas desechables",
+                        "id": "29100298"
+                    },
+                    "description": "CUCHILLAS DESECHABLES DE ALTO PERFIL. PRESENTACION: CAJA CON 50 PIEZAS. NUMERO   DE CATALOGO: 000000-0415-345. PARA SU USO EN EL EQUIPO MEDICO: CLAVE   533.631.0106.01.01 MICROTOMO PARA CORTES DE PARAFINA. MARCA: CARL ZEISS.",
+                    "id": "8186461",
+                    "quantity": 2,
+                    "unit": {
+                        "name": "Envase"
+                    }
+                },
+                {
+                    "classification": {
+                        "description": "Electrodos",
+                        "id": "24600038"
+                    },
+                    "description": "ELECTRODO PARA EMG, DE TRES  LATIGULLOS. PRESENTACION: PAQUETE CON  50 PIEZAS. NUMERO DE CATALOGO: D00 91. PARA SU USO EN EL EQUIPO: SISTEMA DE MEDICION  URODINAMICA CLAVE: 531.829.0243.01.01. MARCA: ANDROMEDA. MODELO: ELLIPSE CHAIR.",
+                    "id": "8186462",
+                    "quantity": 1,
+                    "unit": {
+                        "name": "Envase"
+                    }
+                },
+                {
+                    "classification": {
+                        "description": "Sonda nasal",
+                        "id": "25400451"
+                    },
+                    "description": "PUNTAS NASALES DESECHABLES PARA PACIENTES NEONATALES. PRESENTACION: PAQUETE CON   10 PIEZAS. NUMERO DE CATALOGO: 878035. PARA SU USO EN EL EQUIPO CLAVE: 531 632   0380 CENTRAL DE MONITOREO PARA 12 CAMAS, AVANZADA. MARCA: DATEX-OHMEDA. MODELO:",
+                    "id": "8186463",
+                    "quantity": 12,
+                    "unit": {
+                        "name": "Envase"
+                    }
+                },
+                {
+                    "classification": {
+                        "description": "Antifaz",
+                        "id": "25400565"
+                    },
+                    "description": "ANTIFAZ PARA FOTOTERAPIA. PRESENTACION: PIEZA. NUMERO DE CATALOGO: MX11000. PARA   SU USO EN EL EQUIPO: CLAVE 531 646 0087 CUNA DE CALOR RADIANTE PARA CUIDADOS   INTENSIVOS. MARCA: DRAGER. MODELO: BABYTHERM 8004/8010 MONITOR DE SIGNOS",
+                    "id": "8196732",
+                    "quantity": 150,
+                    "unit": {
+                        "name": "Envase"
+                    }
+                },
+                {
+                    "classification": {
+                        "description": "Cuchillas desechables",
+                        "id": "29100298"
+                    },
+                    "description": "CUCHILLAS DESECHABLES DE ALTO PERFIL. PRESENTACION: CAJA CON 50 PIEZAS. NUMERO   DE CATALOGO: 000000-0415-345. PARA SU USO EN EL EQUIPO MEDICO: CLAVE   533.631.0106.01.01 MICROTOMO PARA CORTES DE PARAFINA. MARCA: CARL ZEISS.",
+                    "id": "8196733",
+                    "quantity": 2,
+                    "unit": {
+                        "name": "Envase"
+                    }
+                },
+                {
+                    "classification": {
+                        "description": "Electrodos",
+                        "id": "24600038"
+                    },
+                    "description": "ELECTRODO PARA EMG, DE TRES  LATIGULLOS. PRESENTACION: PAQUETE CON  50 PIEZAS. NUMERO DE CATALOGO: D00 91. PARA SU USO EN EL EQUIPO: SISTEMA DE MEDICION  URODINAMICA CLAVE: 531.829.0243.01.01. MARCA: ANDROMEDA. MODELO: ELLIPSE CHAIR.",
+                    "id": "8196734",
+                    "quantity": 1,
+                    "unit": {
+                        "name": "Envase"
+                    }
+                },
+                {
+                    "classification": {
+                        "description": "Sonda nasal",
+                        "id": "25400451"
+                    },
+                    "description": "PUNTAS NASALES DESECHABLES PARA PACIENTES NEONATALES. PRESENTACION: PAQUETE CON   10 PIEZAS. NUMERO DE CATALOGO: 878035. PARA SU USO EN EL EQUIPO CLAVE: 531 632   0380 CENTRAL DE MONITOREO PARA 12 CAMAS, AVANZADA. MARCA: DATEX-OHMEDA. MODELO:",
+                    "id": "8196735",
+                    "quantity": 12,
+                    "unit": {
+                        "name": "Envase"
+                    }
+                }
+            ],
+            "numberOfTenderers": 1,
+            "procurementMethod": "direct",
+            "procurementMethodRationale": "Art. 42 pÃ¡rrafo primero",
+            "procuringEntity": {
+                "id": "IMS421231I45-050GYR050",
+                "name": "IMSS-UMAE HOSPITAL DE GINECO OBSTETRICIA No 03 DR VICTOR MANUEL ESPINOSA DE LOS REYES SANCHEZ CMN LA RAZA #050GYR050"
+            },
+            "status": "complete",
+            "submissionMethod": [
+                "electronicSubmission"
+            ],
+            "tenderPeriod": {
+                "startDate": "2017-01-18T14:39:00Z"
+            },
+            "tenderers": [
+                {
+                    "id": "CMS100107GI3",
+                    "name": "CORPORATIVO MS SISTEMAS MEDICOS SA DE CV"
+                }
+            ],
+            "title": "AdjudicaciÃ³n Directa para la AdquisiciÃ³n de Consumibles de Equipo Medico"
+        }
+    }
+]
